@@ -1,0 +1,3 @@
+/* Local/system fonts keep the portfolio private, fast, and fully offline.
+   This family name is a styling alias, not a bundled commercial font. */
+@font-face{font-family:'Signal Sans';src:local('Helvetica Neue');font-style:normal;font-weight:100 900;font-display:swap}

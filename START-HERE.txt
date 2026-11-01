@@ -1,0 +1,40 @@
+SIGNAL / PALAK
+Palak Pandit's portfolio and Wispr Flow challenge preparation kit
+
+1. Double-click OPEN-PORTFOLIO.html to explore the finished website offline.
+   On Mac, you can also double-click Open Portfolio.command.
+
+2. Read README.md for editing, testing and deployment.
+   The production website is in dist/. The editable React/TypeScript source
+   is in src/. No API keys, paid services or environment variables are needed.
+
+3. Open submission/START-SUBMISSION.md for the remaining application steps.
+   The website is complete locally. A public deployment, your actual Wispr
+   Flow building session and your narrated video still need to be completed.
+   No voice usage, public URL or challenge compliance has been fabricated.
+
+4. Use submission/EMERGENT-HANDOFF.md if continuing in Emergent.
+   Speak your own changes using Wispr Flow and keep real evidence.
+
+5. The confirmed public contact number is +91 8252836961. The included resume
+   copy has its incorrect embedded phone link corrected to that number.
+   Your original PDF has not been changed.
+
+Useful shortcuts:
+  Command K / Control K: portfolio command palette
+  Left / Right: switch focused project tabs
+  Escape: close a dialog
+
+Folder guide:
+  src/                 Editable site and verified content
+  public/              Resume, favicon and social preview
+  dist/                Production build ready for static hosting
+  screenshots/         Desktop, mobile and case-study captures
+  submission/          Demo script, voice evidence guide, grant draft,
+                       challenge checklist and Emergent handoff
+  scripts/             Build helpers and browser quality checks
+  OPEN-PORTFOLIO.html   Standalone, offline portfolio
+  README.md            Setup, architecture and deployment instructions
+  QA-REPORT.md         Actual checks performed and known limits
+
+You own the project files. Edit the content to keep the portfolio current.
