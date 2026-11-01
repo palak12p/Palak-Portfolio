@@ -116,3 +116,4 @@ Measured local Lighthouse results are in `QA-REPORT.md`; deployed results can di
 ## Asset provenance
 
 The site uses original code-generated SVG diagrams and icons, local system fonts, the user-supplied resume, and the user-supplied portrait (`public/palak-portrait.jpg`). Project interfaces, project screenshots, portraits and logos were not copied from third parties. Screenshots in this folder show this portfolio itself. The local question index makes no network requests.
+# Palak-Portfolio
